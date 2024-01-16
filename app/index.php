@@ -10,5 +10,8 @@
 		<p><b>CALCUALDORA IPv4</b></p>
 		<a href="ip.html">Aplicacio de calcul de subxarxes</a>
 		<p>Autor: asix2</p>
+<?php
+echo date("l jS \of F Y h:i:s A") . "<br>";
+?>
 	</body>
 <html>
